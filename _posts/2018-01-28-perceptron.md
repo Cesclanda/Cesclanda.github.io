@@ -1,6 +1,6 @@
 ---
 title: "Data Wrangling Project"
-date: 2018-01-28
+date: 2018-01-28 # should be a year-month-date format
 tags: [data wrangling, data science, messy data]
 header:
   image: "/images/perceptron/percept.jpg"
