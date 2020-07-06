@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "D&D"# "VisualBlends"
+title                    : "D&D" # "VisualBlends"
 title_separator          : "-"
 name                     : "VisualBlends"
 description              : "Data Portfolio"
