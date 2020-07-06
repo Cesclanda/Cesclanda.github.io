@@ -13,8 +13,6 @@ title                    : "D&D" # "VisualBlends"
 title_separator          : "-"
 name                     : "VisualBlends"
 description              : "Data Portfolio"
-# logo                    : '/images/logo.png'
-# favicon                  : '/images/logo.png'
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,8 +90,7 @@ author:
   location         : "Philippines"
   email            :
   uri              :
-  
-  : # null (default), "absolute or relative url to link to author home"
+  home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
