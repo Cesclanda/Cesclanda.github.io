@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "D&D" # "VisualBlends"
+title                    : "C Esclanda" # "VisualBlends"
 title_separator          : "-"
 name                     : "VisualBlends"
 description              : "Data Portfolio"
@@ -86,7 +86,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "C Esclanda"
+  name             : "Carmi"
   avatar           : "/images/crms.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Decision Scientist | Designer | Explorer"
   location         : "Philippines"
