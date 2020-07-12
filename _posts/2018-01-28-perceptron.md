@@ -1,63 +1,21 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28 # should be a year-month-date format
-tags: [data wrangling, data science, messy data]
+title: "Kwento Beyond Sweldo: A Poverty Level Prediction"
+date: 2019-08-14 # should be a year-month-date format
+tags: [data science for good, machine learning, data science]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+  image: "/images/Kwento.JPG"
+excerpt: "A study that tests and recommends a Machine Learning approach in identifying Household (HH) poverty levels without considering self-reported income data."
 mathjax: "true"
 ---
+## Executive Summary 
 
-# H1 Heading
+For countries with relatively high level of poverty and budget constraint, **funding social programs for the less fortunate is a tedious activity**. Self reported surveys and Focus Group Discussions (FGDs) shall be conducted to be able to identify potential benficiaries. Nevertheless, these efforts are not maximized because surveys are self discretionary, thus gives way for knowledgeble populace to take advantage of the program.
 
-## H2 Heading
+Given the said problem, **this study intends to test and recommend a Machine Learning approach in identifying Household (HH) poverty levels without considering self-reported income data**. Costa Rica dataset from kaggle was used for analysis given that said granular data is not for public consumption in the Philippines.
 
-### H3 Heading
+The ML models compared include K-Nearest Neigbors (KNN), Logistic Regression, Support Vecto Machine-Classifier(SVC), Decision Trees and Random Forest. **Random Forest was identified as the best model with 93.76% accuracy and best F1 score**. Top relevant features include average years of education, rooms per capita and years of education of Male head of HH. For further studies, GBM and XGBoost models are recommended.
 
-Here's some basic text.
+#### Note: For the technical paper (PDF), data and the code used in this project, you may send me an [email](cgesclanda@gmail.com) or you can also drop your message via [LinkedIn](https://www.linkedin.com/in/carmelita-esclanda-566b2946/).
 
-And here's some *italics*
+<img src="{{ site.url }}{{ site.baseurl }}/images/kwento_poster.png" alt="kwento beyond sweldo">
 
-Here's some **bold** text.
-
-What about a [link](https://github.com/dataoptimal)?
-
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
