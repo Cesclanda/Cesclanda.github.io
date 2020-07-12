@@ -1,5 +1,5 @@
 ---
-title: "Kwento Beyond Sweldo: A Poverty Level Prediction"
+title: #"Kwento Beyond Sweldo: A Poverty Level Prediction"
 date: 2019-08-14 # should be a year-month-date format
 tags: [data science for good, machine learning, data science]
 header:
@@ -15,7 +15,8 @@ Given the said problem, **this study intends to test and recommend a Machine Lea
 
 The ML models compared include K-Nearest Neigbors (KNN), Logistic Regression, Support Vecto Machine-Classifier(SVC), Decision Trees and Random Forest. **Random Forest was identified as the best model with 93.76% accuracy and best F1 score**. Top relevant features include average years of education, rooms per capita and years of education of Male head of HH. For further studies, GBM and XGBoost models are recommended.
 
+<br>
 #### Note: For the technical paper (PDF), data and the code used in this project, you may send me an [email](cgesclanda@gmail.com) or you can also drop your message via [LinkedIn](https://www.linkedin.com/in/carmelita-esclanda-566b2946/).
-
+<br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/kwento_poster.png" alt="kwento beyond sweldo">
 
