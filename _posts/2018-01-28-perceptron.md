@@ -1,5 +1,5 @@
 ---
-title: #"Kwento Beyond Sweldo: A Poverty Level Prediction"
+title: # "Kwento Beyond Sweldo: A Poverty Level Prediction"
 date: 2019-08-14 # should be a year-month-date format
 tags: [data science for good, machine learning, data science]
 header:
