@@ -4,7 +4,7 @@ subtitle : A Poverty Level Prediction
 date: 2019-08-14 # should be a year-month-date format
 tags: [data science for good, machine learning, data science]
 header:
-  image: "/images/kwento2.JPG"
+  image: "/images/01_predictpov.JPG"
 excerpt: "Predicting Household Poverty without bias to self-reported Income Data"
 mathjax: "true"
 ---
