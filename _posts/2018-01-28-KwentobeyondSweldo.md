@@ -1,11 +1,11 @@
 ---
-title: "Predicting Proverty through Machine Learning"
+title: "Kwento Beyond Sweldo"
 subtitle : A Poverty Level Prediction
 date: 2019-08-14 # should be a year-month-date format
 tags: [data science for good, machine learning, data science]
 header:
   image: "/images/kwento2.JPG"
-excerpt: "A study that tests and recommends a Machine Learning approach in identifying Household (HH) poverty levels without considering self-reported income data."
+excerpt: "Predicting Household Poverty without bias to self-reported Income Data"
 mathjax: "true"
 ---
 ## Executive Summary 
