@@ -14,8 +14,6 @@ Well-developed countries have high-end and desirable infrastructure and amenitie
 The main aim of this study is to **analyze the association rules among available amenities – both public and commercial – in ASEAN countries** using Web Mining and Big Data. For this purpose, the data were queried using the geographic boundaries of the countries and compiled at a 1x1 km resolution based on Global Soil Partnership of the Food and Agriculture Organization of the United Nations. Frequent Itemset Mining was employed to retrieve the amenities that were present in a certain country and thresholding was applied to compare the Association Rule Confidence. Lastly, Economic Referencing was performed using key indicators like Gross Domestic Product (GDP) per Capita, Life Expectancy, and Ease of Doing Business. 
 
 Results show that the **strategic positioning of Entertainment Amenities is highly related to the degree of competitiveness of a certain country**. As such, it is recommended that developing countries investigate township development and its contribution to an area’s economic development, be it urban or rural. This research study can be very helpful for policy makers, urban planners and industry leaders in clustering amenities and facilities to encourage and incentivize economic agglomeration. 
-<br>
-<br>
 ##### Authors: Cedric Conol, Carmelita Esclanda, Dustin Reyes, Jomilynn Rebanal 
 <br>
 #### Note: For the technical paper (PDF), data and the code used in this project, you may send me an [email](cgesclanda@gmail.com) or you can also drop your message via [LinkedIn](https://www.linkedin.com/in/carmelita-esclanda-566b2946/).
