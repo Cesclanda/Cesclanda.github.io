@@ -6,7 +6,7 @@ main:
     url: /cv/
   - title: "Design"
     url: /artsies/
-  - title: "Data Projects"
+  - title: "Projects"
     url: /data-projects/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
