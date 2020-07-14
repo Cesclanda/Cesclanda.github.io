@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .masthead {
-  position: fixed;
+  position: relative;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -50,7 +50,7 @@
 }
 
 .masthead__menu {
-  float: right;
+  float: left;
   margin-left: 0;
   margin-right: 0;
   width: 100%;
