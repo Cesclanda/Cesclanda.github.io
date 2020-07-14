@@ -1,5 +1,5 @@
 ---
-title: # "Identity in Amenity"
+title: "Identity in Amenity"
 date: 2020-01-03 # should be a year-month-date format
 tags: [data science for good, machine learning, data science, geospatial, gis, aws, aws athena, geotagging, amenity, frequent itemset mining, data mining]
 header:
