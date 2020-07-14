@@ -7,6 +7,8 @@ header:
 excerpt: "Uncovering the Association Rules of Amenities in ASEAN countries and their relationship to Economic Competencies using Web Mining and Big Data Analysis"
 mathjax: "true"
 ---
+*Uncovering the Association Rules of Amenities in ASEAN countries and their relationship to Economic Competencies using Web Mining and Big Data Analysis*
+
 ## Executive Summary 
 
 Well-developed countries have high-end and desirable infrastructure and amenities which are linked to high standards of living, in concurrence with the core idea of Spatial Equilibrium. Studies have documented the strong connection between the quality of public social infrastructure and the well-being of residents, yet evidence on the connection of existence of decent amenities to economic growth has yet to be developed. 
