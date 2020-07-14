@@ -3,12 +3,10 @@ title: "Identity in Amenity"
 date: 2020-01-03 # should be a year-month-date format
 tags: [data science for good, machine learning, data science, geospatial, gis, aws, aws athena, geotagging, amenity, frequent itemset mining, data mining]
 header:
-  image: "/images/identity.JPG"
+image: "/images/identity.JPG"
 excerpt: "Uncovering the Association Rules of Amenities in ASEAN countries and their relationship to Economic Competencies using Web Mining and Big Data Analysis"
 mathjax: "true"
 ---
-*Uncovering the Association Rules of Amenities in ASEAN countries and their relationship to Economic Competencies using Web Mining and Big Data Analysis*
-
 ## Executive Summary 
 
 Well-developed countries have high-end and desirable infrastructure and amenities which are linked to high standards of living, in concurrence with the core idea of Spatial Equilibrium. Studies have documented the strong connection between the quality of public social infrastructure and the well-being of residents, yet evidence on the connection of existence of decent amenities to economic growth has yet to be developed. 
