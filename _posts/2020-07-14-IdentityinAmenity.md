@@ -3,7 +3,7 @@ title: "Identity in Amenity"
 date: 2020-01-03 # should be a year-month-date format
 tags: [data science for good, machine learning, data science, geospatial, gis, aws, aws athena, geotagging, amenity, frequent itemset mining, data mining]
 header:
-  image: "/images/identity.JPG"
+  image: "/images/02_amenity.JPG"
 excerpt: "Uncovering the Association Rules of Amenities in ASEAN countries and their relationship to Economic Competencies using Web Mining and Big Data Analysis"
 mathjax: "true"
 ---
