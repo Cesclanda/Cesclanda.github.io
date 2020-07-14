@@ -8,8 +8,6 @@ header:
 excerpt: "Predicting Household Poverty without bias to self-reported Income Data"
 mathjax: "true"
 ---
-*Predicting Household Poverty without bias to self-reported Income Data*
-
 ## Executive Summary 
 
 For countries with relatively high level of poverty and budget constraint, **funding social programs for the less fortunate is a tedious activity**. Self reported surveys and Focus Group Discussions (FGDs) shall be conducted to be able to identify potential benficiaries. Nevertheless, these efforts are not maximized because surveys are self discretionary, thus gives way for knowledgeble populace to take advantage of the program.
