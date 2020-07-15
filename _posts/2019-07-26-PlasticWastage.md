@@ -2,7 +2,7 @@
 title: "The Plastic WastAge"
 date: 2019-07-26 # should be a year-month-date format
 tags: [data visualization, tableau, data exploration, data mining]
-image: "/images/05_plasticwastage.JPG"
+image: "/images/05_plasticwastage_v1.JPG"
 header:
   image: "/images/05_plasticwastage.JPG"
 excerpt: "A Data Story of Philippine’s contribution to the Plastic Society"
