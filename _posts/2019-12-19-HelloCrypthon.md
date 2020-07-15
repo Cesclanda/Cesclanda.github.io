@@ -2,6 +2,7 @@
 title: "Hello Crypthon"
 date: 2019-12-19 # should be a year-month-date format
 tags: [deep learning, data science, data mining, finance, lstm, forecasting]
+image: "/images/03_crypthon_v1.JPG"
 header:
   image: "/images/03_crypthon_v1.JPG"
 excerpt: "Predicting the next Bitcoin move using AI"
