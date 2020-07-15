@@ -3,7 +3,7 @@ title: "Kwento Beyond Sweldo"
 subtitle : A Poverty Level Prediction
 date: 2019-08-14 # should be a year-month-date format
 tags: [data science for good, machine learning, data science]
-image: "/images/01_predictpov.JPG"
+image: "/images/01_predictpov_v1.JPG"
 header:
   image: "/images/01_predictpov.JPG"
 excerpt: "Predicting Household Poverty without bias to self-reported Income Data"
