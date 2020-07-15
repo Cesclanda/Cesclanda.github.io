@@ -20,4 +20,6 @@ The models compared include Autoregressive Integrated Moving Average (ARIMA), Ga
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/03_crypthon_poster.jpg" alt="hello crypthon">
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
 
