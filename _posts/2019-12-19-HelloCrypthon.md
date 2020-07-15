@@ -18,5 +18,6 @@ The models compared include Autoregressive Integrated Moving Average (ARIMA), Ga
 #### Note: For the technical paper (PDF), data and the code used in this project, you may send me an [email](cgesclanda@gmail.com) or you can also drop your message via [LinkedIn](https://www.linkedin.com/in/carmelita-esclanda-566b2946/).
 <br>
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/03_crypthon_poster.jpg" alt="hello crypthon">
 
 
