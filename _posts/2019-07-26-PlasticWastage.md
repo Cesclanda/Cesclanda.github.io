@@ -10,7 +10,7 @@ mathjax: "true"
 ## Executive Summary 
 At a global scale, we can see how plastic density has increased in the last decades. Though we may be aware of it, we have yet to understand the implications of our daily plastic consumption and how our country contributed to this "plastic pandemic." Now, we are presenting a pitch deck to encourage Filipinos, especially the youth who are active change agent in this millennial regime, to acknowledge; step up; and promote avoiding plastic so that our nation can aide in improving instead of degrading our waters. By presenting relevant statistics that targets Philippine Audience, we emphasize that plastic-less society is the way to go.
 <br>
-##### Creators: Carmelita Esclanda, Elijah Justin Medina, Kevin Anthony Sison, Naman Punit
+##### Creators: Carmelita Esclanda, Elijah Medina, Kevin Anthony Sison, Naman Punit
 <br>
 #### Note: For further details in this project, you may send me an [email](cgesclanda@gmail.com) or you can also drop your message via [LinkedIn](https://www.linkedin.com/in/carmelita-esclanda-566b2946/).
 <br>
