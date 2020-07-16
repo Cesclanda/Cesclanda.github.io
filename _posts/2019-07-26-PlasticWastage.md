@@ -5,7 +5,7 @@ tags: [data visualization, tableau, data exploration, data mining]
 image: "/images/05_plasticwastage_v1.JPG"
 header:
   image: "/images/05_plasticwastage_v1.JPG"
-excerpt: "A Data Story of Philippine’s contribution to the Plastic Society"
+excerpt: "A Data Story and Visualization of Philippine’s contribution to the Plastic Society using Tableau and Python"
 mathjax: "true"
 ---
 ## Executive Summary 
