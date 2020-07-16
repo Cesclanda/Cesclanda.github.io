@@ -5,7 +5,7 @@ tags: [deep learning, data science, data mining, finance, lstm, forecasting]
 image: "/images/03_crypthon_v1.JPG"
 header:
   image: "/images/03_crypthon_v1.JPG"
-excerpt: "Predicting the next Bitcoin move using AI"
+excerpt: "Predicting the next Bitcoin move using Autoregressive Integrated Moving Average, Gated Recurrent Unit and Long Short-Term Memory"
 mathjax: "true"
 ---
 ## Executive Summary 
