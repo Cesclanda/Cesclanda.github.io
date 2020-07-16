@@ -87,7 +87,7 @@ analytics:
 # Site Author
 author:
   name             : "Carmi"
-  avatar           : "/images/crms.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/cesclanda_ava.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Decision Scientist | Designer "
   location         : "Philippines"
   email            :
